@@ -1,0 +1,4 @@
+C:\Users\alins\Libraries\AlinS-Library\AlinS_Library\AlinS\bin\Release\net6.0\publish\AlinS.dll
+C:\Users\alins\Libraries\AlinS-Library\AlinS_Library\AlinS\bin\Release\net6.0\publish\AlinS.deps.json
+C:\Users\alins\Libraries\AlinS-Library\AlinS_Library\AlinS\bin\Release\net6.0\publish\AlinS.pdb
+C:\Users\alins\Libraries\AlinS-Library\AlinS_Library\AlinS\bin\Release\net6.0\publish\CsvHelper.dll

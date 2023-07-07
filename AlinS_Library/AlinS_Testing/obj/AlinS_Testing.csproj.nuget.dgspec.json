@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS_Testing\\AlinS_Testing.csproj": {}
+  },
+  "projects": {
+    "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS\\AlinS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS\\AlinS.csproj",
+        "projectName": "AlinS",
+        "projectPath": "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS\\AlinS.csproj",
+        "packagesPath": "C:\\Users\\alins\\.nuget\\packages\\",
+        "outputPath": "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.2.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS_Testing\\AlinS_Testing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS_Testing\\AlinS_Testing.csproj",
+        "projectName": "AlinS_Testing",
+        "projectPath": "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS_Testing\\AlinS_Testing.csproj",
+        "packagesPath": "C:\\Users\\alins\\.nuget\\packages\\",
+        "outputPath": "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS_Testing\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alins\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS\\AlinS.csproj": {
+                "projectPath": "C:\\Alin\\Projects\\C#\\AlinS-Library\\AlinS_Library\\AlinS\\AlinS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

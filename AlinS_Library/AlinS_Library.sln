@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlinS", "AlinS\AlinS.csproj", "{6D499030-FE5F-4FED-AB18-DB32CEBE5CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlinS_Testing", "AlinS_Testing\AlinS_Testing.csproj", "{6854E641-DF53-47E2-9B6E-DB944F1FD113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D499030-FE5F-4FED-AB18-DB32CEBE5CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D499030-FE5F-4FED-AB18-DB32CEBE5CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D499030-FE5F-4FED-AB18-DB32CEBE5CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D499030-FE5F-4FED-AB18-DB32CEBE5CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6854E641-DF53-47E2-9B6E-DB944F1FD113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6854E641-DF53-47E2-9B6E-DB944F1FD113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6854E641-DF53-47E2-9B6E-DB944F1FD113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6854E641-DF53-47E2-9B6E-DB944F1FD113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49297CBF-E3EB-46D2-BADD-E243070EC4CC}
+	EndGlobalSection
+EndGlobal
